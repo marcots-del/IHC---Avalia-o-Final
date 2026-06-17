@@ -6,7 +6,7 @@
 * **Matrícula:** 2240196
 * **Curso:** Ciência da Computação
 * **Polo:** Brasília
-* **Data de Entrega:** ***/***/2026
+* **Data de Entrega:** 17/06/2026
 
 ---
 
